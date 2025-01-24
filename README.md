@@ -1,7 +1,6 @@
 **********************************************************************************FOROHUB*********************************************************************************************************************
 
-Proyecto de creación de una API REST sencilla para gestionar un foro de tópicos. Acá podés listar, crear, actualizar y eliminar tópicos, todo de manera segura usando tokens JWT. Si sos nuevo en esto, no te preocupes, te voy a guiar paso a paso.
-
+Proyecto de creación de una API REST sencilla para gestionar un foro de tópicos. Acá podés listar, crear, actualizar y eliminar tópicos, todo de manera segura usando tokens JWT.
 ---
 
 ## Funcionalidades principales:
